@@ -25,7 +25,7 @@ div.yui3-scroll-pagination-loading {
     visibility: visible;
 }
 .yui3-scroll-pagination-click .more-link:hover {
-    background: #daf0f0;
+    background: #e8e8e8;
     color: #0bb;
 }
 

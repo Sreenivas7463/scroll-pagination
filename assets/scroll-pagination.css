@@ -1,3 +1,13 @@
+/*$header-bgcolor           : #452459;*/
+/*$header-border-bottom     : 5px solid #75369f;*/
+/*$item-hover-bgcolor       : #d5d2e7;*/
+/*$item-selected-bgcolor    : #f2f2e8;*/
+/*$link-color               : #0aa0df;*/
+/*$link-hover-color         : #48c0f2;*/
+/*$navitem-active-bgcolor   : #75369f;*/
+/*$sidebar-hover-bgcolor    : #d5d2e7;*/
+/*$sidebar-selected-bgcolor : #75369f;*/
+/*$sub-header-bgcolor       : #d5d2e7;*/
 .yui3-scroll-pagination-indicator {
     background: #fff;
     color: #787878;
@@ -26,7 +36,13 @@ div.yui3-scroll-pagination-loading {
 }
 .yui3-scroll-pagination-click .more-link:hover {
     background: #daf0f0;
-    color: #0bb;
+    color: #00bbbb;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
 }
 
 .yui3-scroll-pagination-end {

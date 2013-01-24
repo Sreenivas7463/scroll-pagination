@@ -1,4 +1,4 @@
-@import "compass";
+@import "base";
 
 .yui3-scroll-pagination-indicator {
     background: #fff;
@@ -20,8 +20,9 @@ div.yui3-scroll-pagination-loading {
 .yui3-scroll-pagination-click {
     visibility: visible;
     .more-link:hover {
-        background: #daf0f0;
-        color: #0bb;
+        background: $item-hover-bgcolor;
+        color: $link-hover-color;
+        @include border-radius(5px);
     }
 }
 .yui3-scroll-pagination-end {

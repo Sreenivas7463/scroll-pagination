@@ -46,3 +46,7 @@ YUI().use("scroll-pagination", function (Y) {
     
 });
 ```
+
+## API Documentation
+
+* http://miiicasa.github.com/scroll-pagination/classes/ScrollPagination.html

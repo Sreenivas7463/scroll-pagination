@@ -1,7 +1,7 @@
 Scroll Pagination Utility
 =========================
 
-A JavaScript utility for infinite scrolling.
+A JavaScript utility for creating infinite scrolling.
 
 ## Installation
 
